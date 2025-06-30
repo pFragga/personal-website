@@ -1,6 +1,6 @@
 ## whoami(1)
 
-My name is Peter, or Petros in Greek.  I'm a 5<sup>th</sup> year undergraduate Informatics student at [Athens University of Economics and Business](https://www.dept.aueb.gr/en/school_of_information).
+My name is Peter, or Petros in Greek.  I'm a 5<sup>th</sup> year undergraduate Informatics student at [Athens University of Economics and Business](https://www.dept.aueb.gr/en/school_of_information).  You can find my CV [here](res/cv.pdf).
 
 Interests include Cybersecurity, Network Security, System Administration and Software Engineering.
 
