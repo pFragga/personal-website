@@ -10,12 +10,12 @@ Hacker culture enthusiast.  Punk &amp; hardcore music connoseur.
 
 Some uni assignments that I'm proud of finishing:
 
-| Year | Name                                                         | Description                                                    |
-| ---  | ---                                                          | ---                                                            |
-| 2025 | [visualize.me](http://github.com/pFragga/visualize.me)       | Audio/music visualizer web application.                        |
-| 2024 | [networks24](http://github.com/pFragga/networks24)           | Bittorrent-like P2P file sharing protocol.                     |
-| 2024 | [WikiAds](http://github.com/pFragga/WikiAds)                 | Small ad service website that dynamically updates its content. |
-| 2023 | [othello-reversi](http://github.com/pFragga/othello-reversi) | Othello/reversi board game implementation.                     |
+| Year | Name                                                         | Description                                                    | Topic(s)                            |
+| ---  | ---                                                          | ---                                                            | ---                                 |
+| 2025 | [visualize.me](http://github.com/pFragga/visualize.me)       | Audio/music visualizer web application.                        | p5.js, Multimedia, Full Stack       |
+| 2024 | [networks24](http://github.com/pFragga/networks24)           | Bittorrent-like P2P file sharing protocol.                     | Computer Networks, Java Sockets     |
+| 2024 | [WikiAds](http://github.com/pFragga/WikiAds)                 | Small ad service website that dynamically updates its content. | express.js, Handlebars, Full Stack  |
+| 2023 | [othello-reversi](http://github.com/pFragga/othello-reversi) | Othello/reversi board game implementation.                     | Algorithms, Artificial Intelligence |
 
 ## sendto(2)
 
