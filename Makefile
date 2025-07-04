@@ -3,7 +3,7 @@
 SHELL = /bin/sh
 
 index.html: index.md metadata.json
-	pandoc -s --metadata-file=metadata.json < $< > $@
+	pandoc --standalone --metadata-file=metadata.json --verbose < $< > $@
 
 .PHONY: serve
 serve: index.html
