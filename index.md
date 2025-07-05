@@ -21,5 +21,5 @@ Some uni assignments that I'm proud of finishing:
 
 ## &sect; sendto(2)
 
-* <pfraggatzis2002@gmail.com>
+* <pfr4gga@disroot.org>
 * [LinkedIn](http://www.linkedin.com/in/peter-frangatzis-4bab44279 "My LinkedIn profile")
