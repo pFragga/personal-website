@@ -8,7 +8,7 @@ Check out my full [CV](res/cv.pdf "My CV in PDF")!
 
 Hacker culture enthusiast.  Punk &amp; hardcore music connoseur.
 
-## &sect; capabilities(7)
+## &sect; projects
 
 Some uni assignments that I'm proud of finishing:
 
@@ -19,7 +19,7 @@ Some uni assignments that I'm proud of finishing:
 | 2024 | [WikiAds](http://github.com/pFragga/WikiAds "'WikiAds' GitHub repository")                         | Small ad service website that dynamically updates its content. | express.js, Handlebars, Full Stack  |
 | 2023 | [othello-reversi](http://github.com/pFragga/othello-reversi "'othello-reversi' GitHub repository") | Othello/reversi board game implementation.                     | Algorithms, Artificial Intelligence |
 
-## &sect; write(1)
+## &sect; contact me
 
 * <pfr4gga@disroot.org>
 * [LinkedIn](http://www.linkedin.com/in/peter-frangatzis-4bab44279 "My LinkedIn profile")
